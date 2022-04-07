@@ -1,0 +1,14 @@
+div {
+    outline: 1px solid #10c70a;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #50ff4a;
+    border-radius: 5px;
+}
+
+p {
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
